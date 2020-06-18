@@ -6,5 +6,5 @@ import (
 
 func main() {
 	f := &Foo{}
-	fmt.Printf("%T", f)
+	fmt.Printf("%T\n", f)
 }
